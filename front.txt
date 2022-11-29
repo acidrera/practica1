@@ -1,1 +1,2 @@
-Este es un desarrollo aparte
+Este es un desarrollo principal
+Funcion 1
