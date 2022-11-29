@@ -1,1 +1,2 @@
-Borro todo
+Esto es un desarrollo aparte en otra rama
+funcion 2
