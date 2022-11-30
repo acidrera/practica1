@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Este es un desarrollo principal
 Funcion 1
+=======
+Esto es un desarrollo aparte en otra rama
+funcion 2
+>>>>>>> front_development
